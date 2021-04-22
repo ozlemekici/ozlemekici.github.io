@@ -7,4 +7,6 @@ categories: posts
 ---
 
 **This is me :**  
-Physics. Coding. Design. Literature [Blog](http://www.levlanninotdefteri.com). | 2015 Denizli/Turkey [[PAU]](http://www.pau.edu.tr/) | 2017 Ankara/Turkey [[Hacettepe]](http://www.hacettepe.edu.tr/) | [C.V.](/)
+Physics | Coding [Projects](https://github.com/ozlemekici?tab=repositories) | Design | Photography [Portfolio](https://www.instagram.com/ozzlemekici) | Literature [Blog](http://www.levlanninotdefteri.com)
+<br/>
+2015 Denizli/Turkey [[PAU]](http://www.pau.edu.tr/) | 2017 Ankara/Turkey [[Hacettepe]](http://www.hacettepe.edu.tr/) | [C.V.] is loading...(/)
