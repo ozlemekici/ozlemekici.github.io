@@ -1,8 +1,8 @@
 
 title: Özlem Ekici
 email: ozlemekici9774@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal Website
+description: Personal Website # this means to ignore newlines until "baseurl:"
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ozlemekici
