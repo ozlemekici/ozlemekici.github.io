@@ -23,9 +23,9 @@ texture:
 
 
   navigation:
-    - title: Ana Sayfa | Main Page
+    - title: Main Page
       url: "/"
-    - title: Hakkımda | About
+    - title: About
       url: "/about"
 
 
