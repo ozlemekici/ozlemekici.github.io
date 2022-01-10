@@ -3,6 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-   Studying at Hacettepe University as a Pyhsics Engineering student. Interesting at Semiconductors, Electricity and Magnetism, Quantum Physics, Algorithms and Data Analysis.
-<br/>  
-   I am also interesting and gaining skills at Matlab, Python and Quantum Computing. I am always working hard to improve my skills. For now I have no job experience due to studying at University. 
+   I am a Physics Engineer and Data Analyst. I also do a visualization with Power BI and Tableau. I studied and taught Mathematics, Statistics, Physics, and Electric-Electronics. I specialize in Python and Matlab. I have taught courses on programming at universities and international communities. I can work systematically with Git/Github. Also, I am good at working with different disciplines and teams.
