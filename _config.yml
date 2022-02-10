@@ -18,13 +18,11 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
  
-
   navigation:
     - title: Main Page
       url: "/"
     - title: About
       url: "/about"
-
 
   social_links:
     github:  ozlemekici
