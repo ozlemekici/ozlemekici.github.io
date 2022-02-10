@@ -19,7 +19,6 @@ texture:
   style: black
  
 
-
   navigation:
     - title: Main Page
       url: "/"
