@@ -12,11 +12,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
 texture:
   title: Özlem Ekici
   tagline: Physics Engineer | Data Analyst | Python Developer   
   date_format: "%b %-d, %Y"
   style: black
+
  
   navigation:
     - title: Main Page
