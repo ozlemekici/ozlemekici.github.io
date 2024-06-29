@@ -15,7 +15,7 @@ plugins:
 
 texture:
   title: Özlem Ekici
-  tagline: Physics Engineer | Data Analyst | Python Developer   
+  tagline:  Data Analyst | Python Developer | Physics Engineer
   date_format: "%b %-d, %Y"
   style: black
 
