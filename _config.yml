@@ -15,7 +15,7 @@ plugins:
 
 texture:
   title: Özlem Ekici
-  tagline:  Data Analyst | Python Developer | Physics Engineer
+  tagline:  AI Specialist | Data Scientist
   date_format: "%b %-d, %Y"
   style: black
 
@@ -30,3 +30,5 @@ texture:
     github:  ozlemekici
     linkedIn: in/ozlemekici   # format: locale/username
     twitter: levlapad
+    kaggle: ozlemekici
+    instagram: levlapad
